@@ -25,7 +25,7 @@ The primary dataset was sourced from Kaggle: [Spotify Data (1921-2020)](https://
 ##  Report Gallery
 | 1. Artist Analysis | 2. Historical Trends |
 |---|---|
-| ![Artist Analysis](Artist Analysis.png) | ![Historical Trends](Historical Trends.png) |
+| ![Artist Analysis](Artist_Analysis.png) | ![Historical Trends](Historical Trends.png) |
 
 | 3. Genre Insights | 4. Musical Insights |
 |---|---|
