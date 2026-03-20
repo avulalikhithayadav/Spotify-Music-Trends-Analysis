@@ -33,6 +33,6 @@ The primary dataset was sourced from Kaggle: [Spotify Data (1921-2020)](https://
 
 
 ##  How to View
-1. Clone this repository or download the files from the `PowerBI_Report/` folder.
+1. Clone this repository or download the files.
 2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 3. Open the `.pbix` file to explore the interactive slicers and dynamic filtering.
